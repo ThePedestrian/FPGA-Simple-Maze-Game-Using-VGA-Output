@@ -11,7 +11,7 @@ Overview
 
 Screenshots
 ------------------
-![](./DOC/screenshots/1.jpg)
+![](./DOC/screenshots/4.jpg)
 ![](./DOC/screenshots/testimage.jpg)
 ![](./DOC/screenshots/3.jpg)
 
